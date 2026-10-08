@@ -17,7 +17,7 @@ int main()
 {
 	string a;
 	
-	cout << "Type a text." << endl;
+	cout << "Type a string." << endl;
 	cin >> a;
 	cout << endl;
 	cout << "String length: ";
