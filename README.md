@@ -18,7 +18,7 @@ All home works will be committed in this repository...
 
 ***
 
-Pattern 2
+**Pattern 2**
 
 1
 
@@ -32,7 +32,7 @@ Pattern 2
 
 ***
 
-Pattern 3
+**Pattern 3**
 
 1
 
