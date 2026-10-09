@@ -30,6 +30,7 @@ Pattern 2
 
 5 5 5 5 5
 
+***
 
 Pattern 3
 
