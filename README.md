@@ -6,7 +6,7 @@ All home works will be committed in this repository...
 
 **Pattern 1**
 
-1
+*1
 
 2 3
 
