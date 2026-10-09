@@ -4,7 +4,7 @@ All home works will be committed in this repository...
 
 # Full pyramid all patterns for n = 5:
 
-**Pattern 1**
+~~Pattern 1~~
 
 1
 
