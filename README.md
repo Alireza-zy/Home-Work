@@ -43,5 +43,3 @@ All home works will be committed in this repository...
 *1234*
 
 *12345*
-
-* hi
