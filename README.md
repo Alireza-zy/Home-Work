@@ -43,3 +43,18 @@ All home works will be committed in this repository...
 *1234*
 
 *12345*
+
+##Right Half Pyramid
+***
+#For n=5:
+
+
+* 
+
+* * 
+
+* * * 
+
+* * * * 
+
+* * * * * 
